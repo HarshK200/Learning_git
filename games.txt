@@ -1,0 +1,5 @@
+Pog i wanna write a game
+I kinda wanna make flappy birds in java script but i have no idea how to do that
+I mean i have never written a web app with a game in it i have bairely written a web app itself
+also this is easier to write cause this is a pretty nice text editor i mean i can really ctrl delete a word and make my typoes way easier
+to correct also i don't know what to write right now in this game.txt
